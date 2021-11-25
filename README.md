@@ -1,5 +1,5 @@
 # Fall(Accident) Detection - A combined Approach(trying to be) using CNN and Computer Vision
 
-![2nd variation - Copy](https://user-images.githubusercontent.com/81099796/143457973-d0445df8-a6e1-4f75-bc27-a320241e4e5d.gif)
+![2nd variation - Copy](https://user-images.githubusercontent.com/81099796/143458393-35682a7e-6e9d-4e99-8603-e416ecbf5c50.gif)
 
-![3rd Variation - Copy](https://user-images.githubusercontent.com/81099796/143458251-68858602-ab4c-4e82-b648-e305f77ad7ca.gif)
+![3rd Variation - Copy](https://user-images.githubusercontent.com/81099796/143458444-dd99b287-0da3-434f-aa3d-1d8f05b93a6b.gif)
