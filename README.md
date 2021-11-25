@@ -2,10 +2,10 @@
 
 In CV Fall Detection to detect if person had a fall or not is detected using Computer Vision. MediaPipe Library by Google has pretrained data for keypoints at certain important joints body, program AITrainer.py calculates angle between Shoulder, Hip and Knee. If it crosses a Threshold then a counter adds it as fall. 
 Different types of falls: 
-    fall while sleeping
-    fall while sitting 
-    fall while walking or standing
-    fall from standing on support tools such as ladder or stairs
+    1. fall while sleeping,
+    2. fall while sitting,
+    3. fall while walking or standing,
+    4. fall from standing on support tools such as ladder or stairs
 If person’s fall is detected and notified to near-dear ones or caretaker, suitable measures can be taken to prevent from increase in damage 
 
 The solution to this is in following 2 videos. Video 1 calculates fall for certain values and Video 2 calculates fall for certain other values.
