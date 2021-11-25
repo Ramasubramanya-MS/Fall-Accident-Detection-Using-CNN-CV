@@ -2,7 +2,10 @@
 
 
 
-![3rd Variation - Copy](https://user-images.githubusercontent.com/81099796/143458444-dd99b287-0da3-434f-aa3d-1d8f05b93a6b.gif)
+
+https://user-images.githubusercontent.com/81099796/143458634-cff1d363-3b9d-4540-bc98-0d3aa72c25af.mp4
+
+
 
 
 https://user-images.githubusercontent.com/81099796/143458557-98c69bd2-e7df-4455-b446-d71711d75f31.mp4
